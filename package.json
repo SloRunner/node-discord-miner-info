@@ -1,0 +1,29 @@
+{
+  "name": "discord-miner-info",
+  "version": "1.0.0",
+  "description": "Discord bot so you can get info about your miner anywhere you are ",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.io": "^2.5.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SloRunner/node-discord-miner-info.git"
+  },
+  "keywords": [
+    "discord",
+    "mining",
+    "crypto"
+  ],
+  "author": "Aleš Kalan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SloRunner/node-discord-miner-info/issues"
+  },
+  "homepage": "https://github.com/SloRunner/node-discord-miner-info#readme"
+}
